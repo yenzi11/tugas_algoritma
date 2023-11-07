@@ -1,0 +1,6 @@
+algoritma menebak angka
+
+1. masuk ke halaman web
+2. masukkan angka
+3. jika angka yang di tebak benar, alert menampilkan benar. dan sebaliknya 
+
